@@ -13,11 +13,11 @@ The program will prompt you to enter the number of processes in the system. It w
 
 ## Implementation Details
 
-1)The program creates a number of Process structs, each representing a process in the distributed system.
-2)Each process maintains a set of accounts and a communication channel for receiving messages.
-3)Processes randomly send messages to each other, simulating transactions.
-4)The takeSnapshot function is called periodically to capture a snapshot of the system's state.
-5)The snapshots are used to calculate the total amount of money in the system and ensure consistency.
+^2 1)The program creates a number of Process structs, each representing a process in the distributed system.
+^2 2)Each process maintains a set of accounts and a communication channel for receiving messages.
+^2 3)Processes randomly send messages to each other, simulating transactions.
+^2 4)The takeSnapshot function is called periodically to capture a snapshot of the system's state.
+^2 5)The snapshots are used to calculate the total amount of money in the system and ensure consistency.
 
 ## Requirements
 
