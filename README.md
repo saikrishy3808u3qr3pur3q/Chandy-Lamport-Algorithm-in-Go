@@ -7,7 +7,7 @@ This repository contains an implementation of the Chandy-Lamport distributed sna
 To run the program, simply compile the Go code and execute the resulting binary: 
 
 ### go build -o chandy-lamport
-###./chandy-lamport
+### ./chandy-lamport
 
 The program will prompt you to enter the number of processes in the system. It will then simulate transactions between processes and take snapshots periodically. Finally, it will output the initial and final total amounts in the system, along with the snapshots taken by each process.
 
