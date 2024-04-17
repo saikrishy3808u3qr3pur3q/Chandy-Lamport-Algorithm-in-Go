@@ -25,4 +25,4 @@ The program will prompt you to enter the number of processes in the system. It w
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
