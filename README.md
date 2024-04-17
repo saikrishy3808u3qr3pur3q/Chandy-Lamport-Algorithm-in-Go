@@ -22,3 +22,7 @@ The program will prompt you to enter the number of processes in the system. It w
 ## Requirements
 
 ### Go 1.13 or higher
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
